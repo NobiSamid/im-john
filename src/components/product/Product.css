@@ -1,0 +1,22 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.568);
+    padding: 20px;
+}
+
+.product-details h1 {
+    color: blueviolet;
+}
+
+.product-details {
+    margin-left: 10px;
+}
+
+.btn-regular {
+    background-color: goldenrod;
+    border: 1px solid gray;
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
